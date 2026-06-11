@@ -309,7 +309,7 @@ export default function Home() {
           </a>
           <a
             className="secondary-action download-action"
-            href="https://github.com/IHKYoung/AhaFlow/releases/latest"
+            href="https://github.com/IHKYoung/AhaFlowWebsite/releases/latest"
           >
             查看 Release
           </a>
