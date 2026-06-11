@@ -27,7 +27,7 @@ npm run build
 可选环境变量：
 
 - `NEXT_PUBLIC_SITE_URL`：正式站点地址，用于 `metadataBase`、`robots.txt` 和 `sitemap.xml`。
-- `MACOS_DOWNLOAD_URL`：覆盖 `/download/macos` 的跳转目标。默认指向公开下载仓库 `IHKYoung/AhaDownload` 最新 Release 的 `AhaFlow-macOS-universal.dmg`。
+- `MACOS_DOWNLOAD_URL`：覆盖 `/download/macos` 的跳转目标。默认指向公开官网仓库 `IHKYoung/AhaFlowWebsite` 最新 Release 的 `AhaFlow-macOS-universal.dmg`。
 
 当前站点不包含表单提交、登录、下载计数或远端数据写入；macOS 下载按钮通过
 `/download/macos` 跳转到最新 GitHub Release 资产。

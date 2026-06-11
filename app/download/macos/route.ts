@@ -1,7 +1,7 @@
 import { NextResponse } from "next/server";
 
 const defaultDownloadUrl =
-  "https://github.com/IHKYoung/AhaDownload/releases/latest/download/AhaFlow-macOS-universal.dmg";
+  "https://github.com/IHKYoung/AhaFlowWebsite/releases/latest/download/AhaFlow-macOS-universal.dmg";
 
 export const dynamic = "force-dynamic";
 
